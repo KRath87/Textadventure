@@ -6,7 +6,6 @@ if (answer.toLowerCase() === "peter") {
 	console.log("Schön dich kennzulernen, Peter. Das ist ein wundervoller Name.");
 } else {
 	console.log("");
-	console.log("");
 	console.log(
 		"Nein." +
 			answer +
