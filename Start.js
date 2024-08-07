@@ -1,5 +1,7 @@
 const prompt = require("prompt-sync")({ sigint: true });
 
+//ich bin auf feature
+
 let answer = prompt("Wie heißt du? ");
 if (answer.toLowerCase() === "peter") {
 	console.log("");
