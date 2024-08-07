@@ -6,6 +6,7 @@ if (answer.toLowerCase() === "peter") {
 	console.log("Schön dich kennzulernen, Peter. Das ist ein wundervoller Name.");
 } else {
 	console.log("");
+	console.log("");
 	console.log(
 		"Nein." +
 			answer +
@@ -16,7 +17,6 @@ if (answer.toLowerCase() === "peter") {
 		"Schön ich kennenzulernen, Peter. Das ist ein wundervoller Name."
 	);
 }
-console.log("");
 console.log(
 	"Willkommen in unserer verrückten Welt. Unter dir ist eine nasse Wiese (ja, deine Hose ist jetzt nass). Neben dir liegt ein Brief."
 );
