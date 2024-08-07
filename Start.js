@@ -1,11 +1,10 @@
 const prompt = require("prompt-sync")({ sigint: true });
-// ich bin main
+// nö
 let answer = prompt("Wie heißt du? ");
 if (answer.toLowerCase() === "peter") {
 	console.log("");
 	console.log("Schön dich kennzulernen, Peter. Das ist ein wundervoller Name.");
 } else {
-	console.log("");
 	console.log("");
 	console.log(
 		"Nein." +
